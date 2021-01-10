@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg" style="width:400px;height:200px">
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" style="width:400px;height:200px">
   <rect x="50" y="50" width="700" height="300" fill="red" />
 </svg>
