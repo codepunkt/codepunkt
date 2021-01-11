@@ -20,9 +20,6 @@ I'm curious, open-minded and love technology, UI and UX design and video games. 
 
 *   [What exactly is vanilla JavaScript?](https://codepunkt.de/writing/what-exactly-is-vanilla-js/)<br/>*The term "vanilla JavaScript" has caused some confusion amongst beginners. This post explains the origins of the term "vanilla" and how it relates to computer software and the JavaScript language.*
 
-
-More on [codepunkt.de/writing](https://codepunkt.de/writing)
-
 <!-- blog end -->
 
 </td></tr></table>
