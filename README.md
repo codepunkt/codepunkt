@@ -24,4 +24,4 @@ I'm curious, open-minded and love technology, UI and UX design and video games. 
 
 </td></tr></table>
 
-<!-- <a href="https://github.com/codepunkt/codepunkt/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a> -->
+<a href="https://github.com/codepunkt/codepunkt/actions"><img src="https://github.com/codepunkt/codepunkt/workflows/Build%20README.md/badge.svg" align="right" alt="Build README"></a> <!-- <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a> -->
