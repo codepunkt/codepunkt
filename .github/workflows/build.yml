@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-20.04
     steps:
-      - name: Check out repo
+      - name: Check out the repository
         uses: actions/checkout@v2
         
       - name: Set up Node.js
@@ -21,21 +21,24 @@ jobs:
         with:
           node-version: "14"
 
-      - uses: actions/cache@v2
-        name: Configure NPM caching
+      - name: Configure NPM caching
+        uses: actions/cache@v2
         with:
           path: ~/.npm
           key: npm-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             npm-
-      - name: Install Node dependencies
-        run: npm i
+
+      - name: Install NPM dependencies
+        run: npm ci
+
       - name: Update README.md
         env:
           CODEPUNKT_TOKEN: ${{ secrets.CODEPUNKT_TOKEN }}
         run: |-
           node src/build-readme.js
           cat README.md
+
       - name: Commit and push if changed
         run: |-
           git diff
