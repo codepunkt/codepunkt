@@ -44,5 +44,5 @@ jobs:
           git diff
           git config --global user.email "bot@example.com"
           git config --global user.name "README-bot"
-          git commit -am "chore: updated README blog posts"
+          git commit -am "chore: updated README blog posts" || exit 0
           git push
