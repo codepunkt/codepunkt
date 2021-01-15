@@ -1,10 +1,13 @@
 name: Build README.md
 
 on:
+  # on push to the repository
   push:
+  # can be triggered manually
   workflow_dispatch:
+  # on a schedule at minute 6 and 36 of each hour
   schedule:
-    - cron: "6,26,46 * * * *"
+    - cron: '6,36 * * * *'
 
 jobs:
   build:
@@ -15,7 +18,7 @@ jobs:
       - name: Set up Npde
         uses: actions/setup-node@v2
         with:
-          node-version: "12"
+          node-version: "14"
       - uses: actions/cache@v2
         name: Configure NPM caching
         with:
