@@ -42,6 +42,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
+          git config --global user.email "christoph+github@codepunkt.de"
+          git config --global user.name "Christoph Werner"
           git add -A
           git commit -m "chore: updated content" || exit 0
           git push
