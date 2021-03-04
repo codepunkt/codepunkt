@@ -14,6 +14,8 @@ I'm curious, open-minded and love technology, UI and UX design and video games. 
 
 <!-- blog start -->
 
+*   [How to create a self-updating GitHub profile README](https://codepunkt.de/writing/how-to-create-a-github-profile-readme/)<br/>*Profile READMEs are a new GitHub feature that allows user-defined content to be displayed on top of your GitHub profile page. This article explains how to create a basic README, shows few beautiful examples and explains how I've built mine to automatically update with my latest blog posts.*
+
 *   [Generating beautiful Open Graph images with Node.js](https://codepunkt.de/writing/generating-beautiful-open-graph-images-with-nodejs/)<br/>*Open graph images provide nice previews when sharing your website. This article explains how to automatically generate open graph images with Node.js and integrate the results into a Gatsby site.*
 
 *   [How to set up syntax highlighting for Gatsby](https://codepunkt.de/writing/how-to-set-up-syntax-highlighting-for-gatsby/)<br/>*We're analyzing the benefits of build-time solutions compared to run-time syntax highlighting libraries and showcase a list of the best Gatsby plugins for this purpose.*
