@@ -12,7 +12,7 @@ const readmePath = join(__dirname, '..', 'README.md')
 ;(async () => {
   const feed = await rssParser.parseURL('https://codepunkt.de/writing/rss.xml')
   const file = await remark()
-    .use(refreshBlogPosts(feed.items))
+    .use(refreshBlogPosts(feed.items.slice(0, 3)))
     .process(vfile.readSync(readmePath))
   await promisify(writeFile)(readmePath, String(file))
 })()
