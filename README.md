@@ -20,8 +20,6 @@ I'm curious, open-minded and love technology, UI and UX design and video games. 
 
 *   [How to set up syntax highlighting for Gatsby](https://codepunkt.de/writing/how-to-set-up-syntax-highlighting-for-gatsby/)<br/>*We're analyzing the benefits of build-time solutions compared to run-time syntax highlighting libraries and showcase a list of the best Gatsby plugins for this purpose.*
 
-*   [What exactly is vanilla JavaScript?](https://codepunkt.de/writing/what-exactly-is-vanilla-js/)<br/>*The term "vanilla JavaScript" has caused some confusion amongst beginners. This post explains the origins of the term "vanilla" and how it relates to computer software and the JavaScript language.*
-
 <!-- blog end -->
 
 </td></tr></table>
