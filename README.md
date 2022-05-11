@@ -4,9 +4,9 @@
 
 ### About me
 
-I work as a Software Architect at [dSPACE](https://www.dspace.com/en/pub/home.cfm) where I support multiple scrum teams with web technologies and cloud architecture. I've been building for the web since 1996 and left a footprint in various industries. I live in Paderborn, Germany, where I organise the local JavaScript meetup.
+I'm the Lead Software Architect for Web & Cloud at [dSPACE](https://www.dspace.com/en/pub/home.cfm) where I support multiple scrum teams with web technologies and cloud architecture. The web is my passion since 1996, when i developed my first website. I have a bachelor and a diploma in Computer Sciences, but everything I know about the web platform and cloud services today is self-taught. I consider myself blessed that I get to build great stuff and help others do the same for a living.
 
-I'm curious, open-minded and love technology, UI and UX design and video games. I believe in a culture that allows failure, supports experiments and celebrates learnings. I do some quality freelance consulting for web application development, SaaS and cloud architecture and write about web development and cloud technology on my [Blog](https://codepunkt.de/writing) and [Twitter](https://twitter.com/code_punkt).
+When not dabbling with web and cloud technology, I’m usually playing videogames or reading books or comics. I have slightly elitist views on beer, love to travel the world with my wife & daughter and have spent most of my adult life trying to get into a regular exercising habit. I believe in a culture that allows failure, supports experiments and celebrates learnings. I do some quality freelance consulting and teaching for Web Application Development, Web Security, SaaS and Cloud Architecture and write about Web Development and Cloud Technology on my [Blog](https://codepunkt.de/writing) and [Twitter](https://twitter.com/code_punkt).
 
 </td><td valign="top" width="50%">
 
