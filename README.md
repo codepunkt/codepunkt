@@ -1,5 +1,3 @@
-<a href="https://codepunkt.de/"><img src="hey.svg" alt="Hey, my name is Christoph!" /></a>
-
 <table><tr><td valign="top" width="50%">
 
 ### About me
