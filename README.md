@@ -12,11 +12,11 @@ When not dabbling with web and cloud technology, I’m usually playing videogame
 
 <!-- blog start -->
 
-*   [Evaluation order of field initializers in JavaScript and TypeScript](https://codepunkt.dewriting/evaluation-order-of-field-initializers-in-javascript-and-typescript/)<br/>*This article introduces you to my latest side project and describes a problem that I encountered because I did not understand the sequence between initializing class fields and calling a parent constructor. It then continues to explain how class fields are initialized in javascript and typescript and how I solved my initial problem.*
+*   [Evaluation order of field initializers in JavaScript and TypeScript](https://codepunkt.de/writing/evaluation-order-of-field-initializers-in-javascript-and-typescript/)<br/>*This article introduces you to my latest side project and describes a problem that I encountered because I did not understand the sequence between initializing class fields and calling a parent constructor. It then continues to explain how class fields are initialized in javascript and typescript and how I solved my initial problem.*
 
-*   [How to create a self-updating GitHub profile README](https://codepunkt.dewriting/how-to-create-a-self-updating-github-profile-readme/)<br/>*Profile READMEs are a new GitHub feature that allows user-defined content to be displayed on top of your GitHub profile page. This article explains how to create a basic README, shows few beautiful examples and explains how I've built mine to automatically update with my latest blog posts.*
+*   [How to create a self-updating GitHub profile README](https://codepunkt.de/writing/how-to-create-a-self-updating-github-profile-readme/)<br/>*Profile READMEs are a new GitHub feature that allows user-defined content to be displayed on top of your GitHub profile page. This article explains how to create a basic README, shows few beautiful examples and explains how I've built mine to automatically update with my latest blog posts.*
 
-*   [Generating beautiful Open Graph images with Node.js](https://codepunkt.dewriting/generating-beautiful-open-graph-images-with-nodejs/)<br/>*Open graph images provide nice previews when sharing your website. This article explains how to automatically generate open graph images with Node.js and integrate the results into a Gatsby site.*
+*   [Generating beautiful Open Graph images with Node.js](https://codepunkt.de/writing/generating-beautiful-open-graph-images-with-nodejs/)<br/>*Open graph images provide nice previews when sharing your website. This article explains how to automatically generate open graph images with Node.js and integrate the results into a Gatsby site.*
 
 <!-- blog end -->
 
