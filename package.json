@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "main": "src/build-readme.js",
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codepunkt/codepunkt.git"
@@ -20,7 +19,8 @@
   "dependencies": {
     "mdast-zone": "^4.0.1",
     "remark": "^13.0.0",
-    "rss-parser": "^3.10.0"
+    "rss-parser": "^3.10.0",
+    "to-vfile": "^6.1.0"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
