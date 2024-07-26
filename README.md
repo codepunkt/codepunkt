@@ -16,7 +16,7 @@ When not dabbling with web and cloud technology, I’m usually playing videogame
 
 *   [Evaluation order of field initializers in JavaScript and TypeScript](https://codepunkt.de/writing/evaluation-order-of-field-initializers-in-javascript-and-typescript)<br/>*The sequence in which class fields initialized and parent constructors are called might not be obvious. This article explains why.*
 
-*   [How to create a self-updating GitHub profile README](https://codepunkt.de/writing/how-to-create-a-self-updating-github-profile-readme)<br/>*How to create a self-updating GitHub profile README - a new feature that allows user-defined content on top of your GitHub profile page*
+*   [How to create a self-updating GitHub profile README](https://codepunkt.de/writing/how-to-create-a-self-updating-github-profile-readme)<br/>*How to create a self-updating GitHub profile README - a new feature that allows user-defined content on top of your GitHub profile page.*
 
 <!-- blog end -->
 
