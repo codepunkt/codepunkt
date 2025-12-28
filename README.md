@@ -2,11 +2,12 @@
 
 ### About me
 
-I'm currently looking for a new remote challenge as (hands-on) Engineering Manager, Software Architect or Staff/Principal Software Engineer.
+**Currently open for high impact hands-on work (IC or EM).**
+Kickstarting technology and architecture, shaping systems, enabling delivery speed, and helping people do the best work of their careers.
 
-The web is my passion since 1996, when I developed my first website. I have a bachelor and a diploma in Computer Sciences, but everything I know about the web platform and cloud services today is self-taught. I consider myself blessed that I get to build great stuff and help others do the same for a living.
+The web has been my passion since 1996, when I built my first website. I love building great products, but I equally care about scalable architecture, tooling, automation, and systems that enable teams to move fast without compromising quality.
 
-When not dabbling with web and cloud technology, I’m usually playing videogames or reading books or comics. I have slightly elitist views on beer, love to travel the world with my wife & daughter and have spent most of my adult life trying to get into a regular exercising habit. I believe in a culture that allows failure, supports experiments and celebrates learnings. I do some quality freelance consulting and teaching for Web Application Development, Web Security, SaaS and Cloud Architecture and write about Web Development and Cloud Technology on my [Blog](https://codepunkt.de/writing) and [Twitter](https://twitter.com/code_punkt).
+When I'm not deep in web or cloud technology, I spend time with my family or play videogames. I occasionally do freelance consulting in web security and write about Web Development, SaaS, and Cloud Architecture on my [blog](https://codepunkt.de).
 
 </td><td valign="top" width="50%">
 
