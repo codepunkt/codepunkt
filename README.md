@@ -14,11 +14,11 @@ When not dabbling with web and cloud technology, I’m usually playing videogame
 
 <!-- blog start -->
 
+*   [Blazing fast Prisma and Postgres tests in Vitest](https://codepunkt.de/writing/blazing-fast-prisma-and-postgres-tests-in-vitest)<br/>*Learn how to speed up real API integration tests without mocking your database or redefining test data in every test.*
+
 *   [OSS License Compliance: Break Your Build, Not the Law](https://codepunkt.de/writing/open-source-license-compliance-break-the-build-not-the-law)<br/>*How to successfully navigate Open Source License Compliance in the JavaScript Ecosystem*
 
 *   [Abandoning Wilson and migrating codepunkt.de to Astro](https://codepunkt.de/writing/abandoning-wilson-and-migrating-codepunktde-to-astro)<br/>*Why I almost finished my own static site generator, Wilson, then abandoned it, and later decided to migrate codepunkt.de to Astro.*
-
-*   [Evaluation order of field initializers in JavaScript and TypeScript](https://codepunkt.de/writing/evaluation-order-of-field-initializers-in-javascript-and-typescript)<br/>*The sequence in which class fields initialized and parent constructors are called might not be obvious. This article explains why.*
 
 <!-- blog end -->
 
