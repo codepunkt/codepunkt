@@ -2,8 +2,8 @@
 
 ### About me
 
-**Currently open for high impact hands-on work (IC or EM).**
-Kickstarting technology and architecture, shaping systems, enabling delivery speed, and helping people do the best work of their careers.
+<!--**Currently open for high impact hands-on work (IC or EM).**
+Kickstarting technology and architecture, shaping systems, enabling delivery speed, and helping people do the best work of their careers.-->
 
 The web has been my passion since 1996, when I built my first website. I love building great products, but I equally care about scalable architecture, tooling, automation, and systems that enable teams to move fast without compromising quality.
 
